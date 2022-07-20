@@ -6,4 +6,4 @@
 - 💰 Não é meu foco principal de inicio
 - 💡 Proposta não é ofensa, aceito independente do valor da remuneração
 - 📚 Tenho como objetivo agregar valor ao meu aprendizado
-- 📫 Meu contato: https://www.linkedin.com/in/henrique-pereira-714407233/ 
+- 📫 Me encontre: https://linktr.ee/tech.rique
