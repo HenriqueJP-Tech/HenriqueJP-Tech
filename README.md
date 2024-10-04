@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🧠 Quality Assurance<br>📚 Information Technology in UFMS 6/8<br>🎓 Accounting Sciences</p>
+<p align="left">🧠 Quality Assurance<br>📚 Information Technology in UFMS 5/6<br>🎓 Accounting Sciences</p>
 
 ###
 
