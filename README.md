@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🧠 Front-End and Mobile<br>📚 Information Technology in UFMS 6/6<br>🎓 Accounting Sciences</p>
+<p align="left">🧠 Front-End and Mobile<br>🎓 Information Technology<br>🎓 Accounting Sciences</p>
 
 ###
 
