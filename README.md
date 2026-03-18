@@ -51,9 +51,6 @@
 ###
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquejp-tech&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="120" style="margin-right: 10px;" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=henriquejp-tech&show_icons=true&locale=en" alt="GitHub Stats" height="120" style="margin-right: 10px;" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henriquejp-tech&" alt="Streak Stats" height="120" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquejp-tech&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henriquejp-tech&" alt="Streak Stats" height="165" />
 </p>
