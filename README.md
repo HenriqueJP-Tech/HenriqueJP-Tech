@@ -52,12 +52,12 @@
 
 <div style="display: flex; align-items: flex-start;">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueJP-Tech&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=henriqueJP-Tech&theme=dark&layout=compact" 
     height="165"
     style="margin-right: 10px;"
   />
   <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=henriqueJP-Tech&theme=dark&hide_border=false" 
+    src="https://streak-stats.demolab.com?user=henriqueJP-Tech&theme=dark" 
     height="165"
   />
 </div>
