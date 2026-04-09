@@ -1,6 +1,6 @@
 <h1>👋 Olá, eu sou o Henrique</h1>
 
-<h3>🚀 Desenvolvedor Mobile & Front-End</h3>
+<h3>🚀 Desenvolvedor Mobile</h3>
 
 <p>
   Transformando ideias em aplicações modernas, performáticas e escaláveis.
@@ -16,7 +16,7 @@
 
 ## 💡 Sobre mim
 
-* 💻 Desenvolvedor focado em **Mobile e Front-End**
+* 💻 Desenvolvedor focado em **Mobile**
 * 🚀 Experiência com aplicações reais e projetos próprios
 * 🧠 Sempre buscando evoluir em performance, UI/UX e arquitetura
 * 🏢 Experiência prática em desenvolvimento de sistemas
