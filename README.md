@@ -35,17 +35,12 @@
 
 ## 📊 Estatísticas
 
-<div style="display: flex; align-items: flex-start;">
+<p>
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=henriqueJP-Tech&theme=dark&layout=compact" 
-    height="165"
-    style="margin-right: 10px;"
+    src="https://ghstats.dev/api/card?username=henriqueJP-Tech&theme=tokyonight" 
+    width="45%"
   />
-  <img 
-    src="https://streak-stats.demolab.com?user=henriqueJP-Tech&theme=dark" 
-    height="165"
-  />
-</div>
+</p>
 
 ---
 
