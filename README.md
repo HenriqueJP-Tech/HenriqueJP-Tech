@@ -27,7 +27,7 @@
 
 <div>
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,vue,firebase,tailwind,bootstrap,androidstudio,git,github,selenium,wordpress" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,vue,firebase,styledcomponents,tailwind,bootstrap,git,github,gherkin,selenium,wordpress" />
 
 </div>
 
