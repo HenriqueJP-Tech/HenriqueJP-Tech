@@ -9,7 +9,7 @@
 ---
 
 ## 📫 Contato
-🌐 https://techrique.com.br <br>
+🌐 https://wwww.techrique.com.br <br>
 ✉️ [henriquepereiraemp@gmail.com](mailto:henriquepereiraemp@gmail.com)
 
 ---
