@@ -42,6 +42,19 @@
   />
 </p>
 
+<p>
+  <img 
+    src="https://streak-stats.demolab.com?user=henriqueJP-Tech&theme=tokyonight"
+    width="45%"
+  />
+  
+</p>
+
+## Troféus de Estatísticas
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=henriqueJP-Tech&theme=tokyonight&margin-w=15)
+
+
 ---
 
 ## ⚡ Diferenciais
