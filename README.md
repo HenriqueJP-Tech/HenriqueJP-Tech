@@ -27,7 +27,7 @@
 
 <div>
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,vue,firebase,styledcomponents,tailwind,bootstrap,git,github,gherkin,selenium,wordpress" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,vue,firebase,styledcomponents,tailwind,bootstrap,git,github,gherkin,selenium" />
 
 </div>
 
@@ -49,11 +49,6 @@
   />
   
 </p>
-
-## Troféus de Estatísticas
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=henriqueJP-Tech&theme=tokyonight&margin-w=15)
-
 
 ---
 
