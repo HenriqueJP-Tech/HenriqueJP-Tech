@@ -42,14 +42,6 @@
   />
 </p>
 
-<p>
-  <img 
-    src="https://streak-stats.demolab.com?user=henriqueJP-Tech&theme=tokyonight"
-    width="45%"
-  />
-  
-</p>
-
 ---
 
 ## ⚡ Diferenciais
