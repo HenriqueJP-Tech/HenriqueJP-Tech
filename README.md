@@ -27,7 +27,7 @@
 
 <div>
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,vue,firebase,styledcomponents,tailwind,bootstrap,git,github,gherkin,selenium" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,firebase,styledcomponents,tailwind,bootstrap,git,github,gherkin,selenium" />
 
 </div>
 
