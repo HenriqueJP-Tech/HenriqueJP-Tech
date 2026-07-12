@@ -38,7 +38,7 @@ Transformando ideias em aplicativos modernos, performáticos e focados na experi
 
 ## 🛠 Stack
 
-<div align="center">
+<div>
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,firebase,styledcomponents,tailwind,bootstrap,git,github,gherkin,selenium" />
 
@@ -48,7 +48,7 @@ Transformando ideias em aplicativos modernos, performáticos e focados na experi
 
 ## 📈 GitHub
 
-<div align="center">
+<div>
   
 <img 
     src="https://ghstats.dev/api/card?username=henriqueJP-Tech&theme=tokyonight" 
@@ -80,7 +80,7 @@ Transformando ideias em aplicativos modernos, performáticos e focados na experi
 
 ## 📊 Atividade
 
-<div align="center">
+<div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=henriqueJP-Tech&theme=tokyo-night&hide_border=true"/>
 
@@ -96,7 +96,7 @@ Transformando ideias em aplicativos modernos, performáticos e focados na experi
 
 ## 📫 Contato
 
-<div align="center">
+<div>
 
 🌐 https://www.techrique.com.br/links
 
