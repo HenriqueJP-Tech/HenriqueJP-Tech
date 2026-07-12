@@ -1,31 +1,44 @@
-<h1>👋 Olá, eu sou o Henrique</h1>
+<div align="center">
 
-<h3>🚀 Desenvolvedor Mobile</h3>
+# 👋 Olá, eu sou Henrique 
 
-<p>
-  Transformando ideias em aplicações modernas, performáticas e escaláveis.
-</p>
+### 🚀 Mobile Developer | React Native | JavaScript | TypeScript
+
+Transformando ideias em aplicativos modernos, performáticos e focados na experiência do usuário.
+
+<br>
+
+<a href="https://www.techrique.com.br/links">
+<img src="https://img.shields.io/badge/Website-Techrique-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:henriquepereiraemp@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=henriqueJP-Tech&style=for-the-badge&color=blue"/>
+
+</div>
 
 ---
 
-## 📫 Contato
-🌐 https://www.techrique.com.br/links <br>
-✉️ [henriquepereiraemp@gmail.com](mailto:henriquepereiraemp@gmail.com)
+## 🚀 Sobre mim
+
+💻 Desenvolvedor Mobile
+
+📱 Focado em React Native e desenvolvimento de aplicações modernas
+
+🎯 Sempre buscando escrever código limpo e escalável
+
+🧠 Estudando arquitetura, performance e UI/UX
+
+🚀 Criador da comunidade **DevHub**
 
 ---
 
-## 💡 Sobre mim
+## 🛠 Stack
 
-* 💻 Desenvolvedor focado em **Mobile**
-* 🚀 Experiência com aplicações reais e projetos próprios
-* 🧠 Sempre buscando evoluir em performance, UI/UX e arquitetura
-* 🏢 Experiência prática em desenvolvimento de sistemas
-
----
-
-## 🛠️ Tecnologias
-
-<div>
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,firebase,styledcomponents,tailwind,bootstrap,git,github,gherkin,selenium" />
 
@@ -33,26 +46,60 @@
 
 ---
 
-## 📊 Estatísticas
+## 📈 GitHub
 
-<p>
-  <img 
+<div align="center">
+  
+<img 
     src="https://ghstats.dev/api/card?username=henriqueJP-Tech&theme=tokyonight" 
     width="45%"
   />
-</p>
+  
+</div>
 
 ---
 
-## ⚡ Diferenciais
+## 📌 Projetos em destaque
 
-* 🔥 Foco em performance e boas práticas
-* 📱 Experiência com desenvolvimento mobile
-* 🎯 Visão de produto (não só código)
-* 🧩 Facilidade em aprender novas tecnologias
+| Projeto | Descrição |
+|----------|-----------|
+| 📱 Vytal | Aplicativo para acompanhamento da saúde |
+| 🌐 Techrique | Meu site e portfólio |
+| 👥 DevHub | Comunidade para desenvolvedores |
 
 ---
 
-## 👀 Vamos conectar?
+## 🎯 Atualmente
 
-Se você busca alguém que entrega resultado e evolui rápido, bora conversar 🚀
+- 📱 Desenvolvendo o Vytal
+- 🚀 Expandindo a comunidade DevHub
+- 📚 Estudando arquitetura mobile
+- ⚡ Aperfeiçoando React Native + Firebase
+
+---
+
+## 📊 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=henriqueJP-Tech&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 💬 Frase
+
+> "Código limpo é aquele que parece ter sido escrito por alguém que se importa com quem vai lê-lo."
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+🌐 https://www.techrique.com.br/links
+
+📧 henriquepereiraemp@gmail.com
+
+</div>
