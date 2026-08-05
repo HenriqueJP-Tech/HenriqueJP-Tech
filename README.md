@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou Henrique 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=BFCFFF&width=435&lines=Ol%C3%A1+%F0%9F%91%8B+eu+sou+o+Henrique" alt="Typing SVG" /></a>
 
 ### 🚀 Mobile Developer | React Native | JavaScript | TypeScript
 
