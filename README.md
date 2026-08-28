@@ -78,16 +78,6 @@ Transformando ideias em aplicativos modernos, performáticos e focados na experi
 
 ---
 
-## 📊 Atividade
-
-<div>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=henriqueJP-Tech&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
 ## 💬 Frase
 
 > "Código limpo é aquele que parece ter sido escrito por alguém que se importa com quem vai lê-lo."
