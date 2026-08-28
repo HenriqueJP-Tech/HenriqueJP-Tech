@@ -150,9 +150,6 @@ const henrique = {
 <div align="left">
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HenriqueJP-Tech\&theme=tokyonight)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HenriqueJP-Tech\&theme=tokyonight)
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HenriqueJP-Tech\&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=HenriqueJP-Tech\&theme=tokyonight\&hide_border=false)
 
