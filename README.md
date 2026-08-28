@@ -149,9 +149,11 @@ const henrique = {
 
 <div align="left">
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HenriqueJP-Tech\&theme=tokyonight)
+<img src="https://ghstats.dev/api/card?username=henriqueJP-Tech&theme=tokyonight" width="450px" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=HenriqueJP-Tech\&theme=tokyonight\&hide_border=false)
+<br />
+
+<img src="https://streak-stats.demolab.com?user=HenriqueJP-Tech&theme=tokyonight&hide_border=false" width="450px" />
 
 </div>
 
