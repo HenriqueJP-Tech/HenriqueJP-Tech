@@ -125,7 +125,7 @@ const henrique = {
 
 ---
 
-> **📍 Achô!**
+> **📍 Dakiali!**
 >
 > **`React Native` `Expo` `TypeScript` `Expo Router` `Docker`**
 >
